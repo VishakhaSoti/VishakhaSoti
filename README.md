@@ -22,9 +22,9 @@ I'm currently learning and exploring the field of **Data Analytics**, with a gro
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+   <img src="https://img.shields.io/badge/OOPs-FF6F00?style=for-the-badge&logo=java&logoColor=white" alt="OOPs"/>
   <img src="https://img.shields.io/badge/Statistics-005C9C?style=for-the-badge&logo=abstract&logoColor=white" alt="Statistics"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-4CAF50?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Data Visualization"/>
 </p>
 
 ---
@@ -33,7 +33,6 @@ I'm currently learning and exploring the field of **Data Analytics**, with a gro
 
 - Data Cleaning & Transformation
 - AWS 
-- DAX & Custom Visuals in Power BI
 - Python Libraries: `pandas`, `numpy`, `matplotlib`
 - Basics of Machine Learning
 
